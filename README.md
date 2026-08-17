@@ -82,4 +82,14 @@ The macro automatically generates a PowerPoint presentation containing the Excel
 - UserForm for selecting dashboards
 - Error handling and validation
 - Support for different dashboard layouts
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39e4d283-d300-4627-99eb-15063f9d77e6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26729343-b823-4c22-902a-a98577f05af5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b6ce011-be03-44e8-9db2-3486dd3b18d1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/227af368-083a-4d2e-af6f-c5508fef649c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5caa8119-29f0-4651-a036-4f8eedb46f55" />
+ output images 
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad5c5832-5be7-4b54-82fe-5c07e85bfe43" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85f3d3f9-ce1c-4622-84b8-132332899de1" />
+
+
 
